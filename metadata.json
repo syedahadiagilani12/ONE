@@ -1,0 +1,6 @@
+{
+  "name": "OneHealth Surveillance",
+  "description": "An integrated disease, animal, and environmental health surveillance dashboard for real-time risk mitigation and outbreak reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
